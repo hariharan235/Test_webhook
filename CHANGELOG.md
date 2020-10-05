@@ -8,8 +8,13 @@
 
 - Add more tests for max [\#1](https://github.com/hariharan235/Test_webhook/issues/1)
 
+**Closed issues:**
+
+- Fix unusedfunction in max.c [\#4](https://github.com/hariharan235/Test_webhook/issues/4)
+
 **Merged pull requests:**
 
+- Change name of coverage report to coverage.xml [\#3](https://github.com/hariharan235/Test_webhook/pull/3) ([hariharan235](https://github.com/hariharan235))
 - Test pr [\#2](https://github.com/hariharan235/Test_webhook/pull/2) ([hariharan235](https://github.com/hariharan235))
 
 
