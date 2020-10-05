@@ -72,7 +72,7 @@
   :reports:
     - Cobertura
   :gcovr:
-
+    :cobertura_artifact_filename: cobertura.xml
 
 :junit_tests_report:
   :artifact_filename: report_junit.xml
