@@ -10,6 +10,7 @@
     \param param1
     \param param2
     \return 0 or 1
+// cppcheck-suppress unusedFunction
  */
 int max(int param1, int param2)
 {
