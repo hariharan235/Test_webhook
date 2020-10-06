@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="dir_68267d1309a1af8e8297ef4c3efbcdba" kind="dir">
+    <compoundname>/home/pi/Documents/C_projects/Test_github/src</compoundname>
+    <innerfile refid="main_8c">main.c</innerfile>
+    <innerfile refid="main_8h">main.h</innerfile>
+    <innerfile refid="max_8c">max.c</innerfile>
+    <innerfile refid="max_8h">max.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/pi/Documents/C_projects/Test_github/src/"/>
+  </compounddef>
+</doxygen>
