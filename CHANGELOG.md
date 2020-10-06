@@ -10,6 +10,7 @@
 
 **Closed issues:**
 
+- Fix badge not pointing to jenkins server [\#5](https://github.com/hariharan235/Test_webhook/issues/5)
 - Fix unusedfunction in max.c [\#4](https://github.com/hariharan235/Test_webhook/issues/4)
 
 **Merged pull requests:**
