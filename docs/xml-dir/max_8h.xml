@@ -51,7 +51,7 @@
 </para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/home/pi/Documents/C_projects/Test_github/src/max.h" line="13" column="1" bodyfile="/home/pi/Documents/C_projects/Test_github/src/max.c" bodystart="15" bodyend="29"/>
+        <location file="/home/pi/Documents/C_projects/Test_github/src/max.h" line="13" column="1" bodyfile="/home/pi/Documents/C_projects/Test_github/src/max.c" bodystart="15" bodyend="33"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
