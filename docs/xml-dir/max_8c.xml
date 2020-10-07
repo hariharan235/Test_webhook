@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="max_8c" kind="file" language="C++">
+    <compoundname>max.c</compoundname>
+    <includes refid="max_8h" local="yes">max.h</includes>
+    <incdepgraph>
+      <node id="6">
+        <label>/home/pi/Documents/C_projects/Test_github/src/max.c</label>
+        <link refid="max_8c"/>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>max.h</label>
+        <link refid="max_8h"/>
+      </node>
+    </incdepgraph>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="max_8c_1a9514a57f256866c7e02113a8f2d41688" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int max</definition>
+        <argsstring>(int param1, int param2)</argsstring>
+        <name>max</name>
+        <param>
+          <type>int</type>
+          <declname>param1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>param2</declname>
+        </param>
+        <briefdescription>
+<para>Return 0,1 based on greater of params. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>param1</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>param2</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>0 or 1 </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/pi/Documents/C_projects/Test_github/src/max.c" line="15" column="1" bodyfile="/home/pi/Documents/C_projects/Test_github/src/max.c" bodystart="15" bodyend="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Max source file </para>    </detaileddescription>
+    <location file="/home/pi/Documents/C_projects/Test_github/src/max.c"/>
+  </compounddef>
+</doxygen>
