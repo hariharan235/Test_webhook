@@ -20,10 +20,15 @@ int max(int param1, int param2)
     {
       return_val = 0;
     }
-  else
+  else if(param1 < param2)
     {
       return_val = 1;
     }
+  else
+    {
+      return_val = 2;
+    }
 
+  
   return return_val;    
 }

@@ -38,7 +38,7 @@ void test_max_param1_greaterthan_param2(void)
 }
 
 /*! \fn test_max_param2_greaterthan_param1(void)
-    \brief Test to check if max returns 0 is param2 is greater than param1
+    \brief Test to check if max returns 1 is param2 is greater than param1
     \param None
     \return None
  */
@@ -49,3 +49,17 @@ void test_max_param2_greaterthan_param1(void)
 
   TEST_ASSERT_EQUAL(1, max(a,b));
 }
+
+/*! \fn test_max_param2_equalto_param1(void)
+    \brief Test to check if max returns 2 is param2 is equal to param1
+    \param None
+    \return None
+ */
+void test_max_param2_equalto_param1(void)
+{
+  int a = 17;
+  int b = 17;
+
+  TEST_ASSERT_EQUAL(2, max(a,b));
+}
+
